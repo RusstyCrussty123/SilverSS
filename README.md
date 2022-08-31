@@ -4,5 +4,5 @@ You may reupload, modify, and do whatever you want with SilverSS. Just make sure
 
 Most recent version:
 ```lua
-require(10686481800):silver("username")
+require(10780041781):silver("username")
 ```
